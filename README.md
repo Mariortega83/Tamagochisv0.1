@@ -52,7 +52,7 @@ He usado el mismo método para mandar los mensajes que hemos hecho en clase
 Y usado el método drawboard para pintar de nuevo a los jugadores 
 ![Captura de ](./Tamagochis/db.png)
 
-Posterior a esto, tendría que hacer que a los usuarios se les asignen las posiciones inciales de una manera más eficiente, porque ahora mismo solo funciona en el primer juego, así como generar el tablero de otra forma y generar los arbustos de manera aleatoria pero que se ajusten a lo que se pedía, que no se generen uno a lado del otro y demás. Quedan por implementar cosas, pero lo que está hecho lo he hecho yo y lo entiendo.
+Posterior a esto, tendría que hacer que a los usuarios se les asignen las posiciones inciales de una manera más eficiente, porque ahora mismo solo funciona en el primer juego, así como generar el tablero de otra forma y generar los arbustos de manera aleatoria pero que se ajusten a lo que se pedía, que no se generen uno a lado del otro y demás, adiccional a esto, también es necesario que se gestione de otra forma la forma en la que los jugadores interactúan con los arbustos. Quedan por implementar cosas, pero lo que está hecho lo he hecho yo y lo entiendo.
 
 ## Rúbrica
 
